@@ -1,6 +1,6 @@
 {
 
-"test":["T", "EH", "S", "T"],
-"diamonds":[]
+"test":["T","EH","S","T"],
+"diamonds":["D","AY","M","AX","N","D","S"]
 
 }
