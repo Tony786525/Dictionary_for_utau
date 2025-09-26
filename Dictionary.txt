@@ -1,5 +1,6 @@
 {
 
-"test":["T", "EH", "S", "T"]
+"test":["T", "EH", "S", "T"],
+"diamonds":[]
 
 }
